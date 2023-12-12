@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkVOHDHGDneJ28GgcEyeciqtA4grTNkUNRKo/XLkkYhFB0YSB+QT4JCKTbWN5tgKUNxnmrBVp4K7ueCPhnoiGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fio Mel\\source\\repos\\Responsi-2\\Responsi-2\\Responsi-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fio Mel\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
